@@ -3,8 +3,8 @@
 <br>
 
 <b>Sample projects & more for the esp32 C3 Supermini.</b>
-<br>
 
+<br>
 
 ___
 
@@ -18,9 +18,9 @@ ___
 ### Device Compatibility
 
 These sketches Successfully tested on
-- [Amazon\*](https://a.co/d/7d48jB2)
-- [Amazon\*](https://a.co/d/aPpfLyP)
-- [Aliexpress\*](https://s.click.aliexpress.com/e/_DkSpIjB)
+- [Amazon\*]()
+- [Amazon\*]()
+- [Aliexpress\*]()
 
 ---
 
