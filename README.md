@@ -15,7 +15,7 @@ ___
 ## 📁 Repo Directory 📁
 
 - <a href=https://github.com/ATOMNFT/ESP32-C3-Hub/tree/main/Sketches>Sketches</a>
-- <a href=#>Info</a>
+- <a href=https://github.com/ATOMNFT/ESP32-C3-Hub/tree/main/Info>Info</a>
   
   <hr>
   
