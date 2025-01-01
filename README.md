@@ -8,7 +8,7 @@
 
 ___
 
-## 📁 Project Directory 📁
+## 📁 Repo Directory 📁
 
 - <a href=></a>
 - <a href=></a>
