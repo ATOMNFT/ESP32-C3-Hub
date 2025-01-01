@@ -2,7 +2,7 @@
 
 <br>
 
-<b>Sample projects & more for the esp32 C3 Supermini. Make sure you keep the ino file in a folder titled same as the ino.</b>
+<b>Sample projects for the esp32 C3 Supermini. Make sure you keep the ino file in a folder titled same as the ino.</b>
 
 <br>
 
