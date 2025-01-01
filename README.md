@@ -10,7 +10,7 @@ ___
 
 ## 📁 Repo Directory 📁
 
-- <a href=https://github.com/ATOMNFT/ESP32-C3-Hub/tree/main/Sketches/WiFi-BLE-RGB-Scan>WiFi-BLE-RGB-Scan</a>
+- <a href=https://github.com/ATOMNFT/ESP32-C3-Hub/tree/main/Sketches>Sketches</a>
 - <a href=></a>
   
   <hr>
