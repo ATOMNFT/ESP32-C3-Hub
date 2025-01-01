@@ -28,13 +28,6 @@ Here are some libraries that these sketches will use:
 
 ___
 
-## 📁 Project Directory 📁
-
-- <a href=></a>
-- <a href=></a>
-  
-  <hr>
-  
 ### Device Compatibility
 
 These sketches Successfully tested on
