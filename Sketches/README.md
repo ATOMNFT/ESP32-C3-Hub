@@ -1,4 +1,4 @@
-![Header](/Images/Sketches-Header.png)
+![Header](/Images/Sketch-Header.png)
 
 <br>
 
