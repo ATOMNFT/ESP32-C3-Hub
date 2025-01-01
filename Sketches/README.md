@@ -6,13 +6,11 @@
 
 <br>
 
-Here are some libraries that these sketches will use:
-<ol>
-  <li><a href=https://github.com/Freenove/Freenove_WS2812_Lib_for_ESP32>Freenove_WS2812_Lib</a></li>
-</ol>
-
-
-
+>Here are some libraries that these sketches will use:
+><ol>
+>  <li><a href=https://github.com/Freenove/Freenove_WS2812_Lib_for_ESP32>Freenove_WS2812_Lib</a></li>
+></ol>
+>
 >Also make sure you have the ESP32 board (version 2.0.10) by Espressif Systems installed in boardmanager.
 >
 >To install a board in the Arduino IDE's Board Manager, open the IDE, go to Tools > Board > Boards Manager, 
